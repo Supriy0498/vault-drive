@@ -2,6 +2,8 @@
 
 ### Vault Drive is a secure, cloud-inspired web application that allows users to register, log in, and efficiently manage, organize, and share their files and folders. The platform features robust user authentication, file uploads, folder organization, sharing capabilities, and views for recent, starred, and trashed items.
 
+CAUTION: Work in Progress⚠🚧🚧
+
 #### Tech Stack
 - **Frontend:** Next.js (App Router), React, TypeScript, CSS Modules
 - **Backend:** Next.js API routes (Node.js/Express-like), TypeScript
