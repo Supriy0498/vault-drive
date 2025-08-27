@@ -1,0 +1,1 @@
+export const isFolderRoute = (pathname: string) => /^\/folder\/[^/]+\/?$/.test(pathname);
